@@ -1,0 +1,103 @@
+.background {
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*border-radius: 10px;*/
+    position: relative;
+}
+.search{
+    width: 900px;
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+.title{
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.search_title{
+    font-family: Roboto;
+    font-size: 20px;
+    color:#303030;
+    font-weight: bold;
+    line-height: 20px;
+}
+.search_body{
+    border-radius: 8px;
+    border: 1px solid #D0D5DD;
+}
+.recent{
+    font-family: Roboto;
+    font-size: 18px;
+    color:#303030;
+    font-weight: bold;
+    line-height: 12px;
+}
+.dest{
+    color: #1262AE;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 12px;
+}
+.depat{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 12px;
+}
+.date{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 12px;
+}
+.tripCard{
+    box-sizing: border-box;
+    border: 1px solid #D0D5DD;
+    border-radius: 8px;
+    position: relative;
+}
+.from{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: lighter;
+}
+.price{
+    font-family: fantasy;
+    font-size: 36px;
+    font-weight: normal;
+}
+.next{
+    font-family: Roboto;
+    font-size: 18px;
+    color: #1262AE;
+    font-weight: 600;
+}
+.plan{
+    font-family: Roboto;
+    font-weight: bold;
+    color: #1262AE;
+    font-size: 18px;
+}
+.pop{
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30px;
+    color: #303030;
+}
+.city{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 20px;
+    color: #424242;
+}
+.code{
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 16px;
+    color:#999999;
+}
